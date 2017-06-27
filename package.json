@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "Mean Stack w Ang 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekfanboy/Tutorial-Ang2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "geekfanboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekfanboy/Tutorial-Ang2/issues"
+  },
+  "homepage": "https://github.com/geekfanboy/Tutorial-Ang2#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
